@@ -1,13 +1,14 @@
 package com.customer.pereference;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+import com.customer.pereference.util.StringUtil;
+
+import java.util.ArrayList;
+import java.util.List;
+
 class CustomerPreferenceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    void contextLoads() {
+    }
 
 }
